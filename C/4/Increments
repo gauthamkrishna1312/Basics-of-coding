@@ -1,0 +1,14 @@
+Pre incriment
+++a means that a=a+1
+Post incriment
+a++ means a=1+a
+
+when a=10
+b=++a means first "a" incriments then it asighn to "b"
+b=a++ means first it asighn to "b" then incriments
+
+Silerly decriments works
+a--
+
+Mod(%)
+% means reminder 

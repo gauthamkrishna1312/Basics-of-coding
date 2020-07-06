@@ -1,0 +1,13 @@
+Array
+Stors inputs from user like books stored in a librery
+It can store lot of datas
+One arry is for one specific type of data like int,float etc
+****
+	int a[0];	/0-4 arrays that means 5 arrys of inegers/
+	a[0]=15;	/Programmer asighn the value to 0th arry/
+	scanf("%d",%a[0]);	/User asighn the value to 0th arry/
+**/Use for loop to asighn values to arrays/
+	for(i=0;i<5;i++){
+	   scanf("%d",%a[i]);
+	}
+****
